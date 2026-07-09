@@ -1,0 +1,7 @@
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab2\Lab2_TT_7\Lab2_TT_7\bin\Debug\Lab2_TT_7.exe.config
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab2\Lab2_TT_7\Lab2_TT_7\bin\Debug\Lab2_TT_7.exe
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab2\Lab2_TT_7\Lab2_TT_7\bin\Debug\Lab2_TT_7.pdb
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab2\Lab2_TT_7\Lab2_TT_7\obj\Debug\Lab2_TT_7.csproj.AssemblyReference.cache
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab2\Lab2_TT_7\Lab2_TT_7\obj\Debug\Lab2_TT_7.csproj.CoreCompileInputs.cache
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab2\Lab2_TT_7\Lab2_TT_7\obj\Debug\Lab2_TT_7.exe
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab2\Lab2_TT_7\Lab2_TT_7\obj\Debug\Lab2_TT_7.pdb

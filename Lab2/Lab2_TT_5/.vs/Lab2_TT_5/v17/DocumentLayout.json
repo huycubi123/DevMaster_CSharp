@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab2\\Lab2_TT_4\\",
+  "WorkspaceRootPath": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab2\\Lab2_TT_5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E29EA374-3CDE-40FC-9367-CB868918760E}|Lab2_TT_4\\Lab2_TT_4.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab2\\lab2_tt_4\\lab2_tt_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E29EA374-3CDE-40FC-9367-CB868918760E}|Lab2_TT_4\\Lab2_TT_4.csproj|solutionrelative:lab2_tt_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0A90C95-30AF-4787-B05F-B5F6CE84C7C1}|Lab2_TT_5\\Lab2_TT_5.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab2\\lab2_tt_5\\lab2_tt_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A90C95-30AF-4787-B05F-B5F6CE84C7C1}|Lab2_TT_5\\Lab2_TT_5.csproj|solutionrelative:lab2_tt_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab2\\Lab2_TT_4\\Lab2_TT_4\\Program.cs",
-              "RelativeDocumentMoniker": "Lab2_TT_4\\Program.cs",
-              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab2\\Lab2_TT_4\\Lab2_TT_4\\Program.cs",
-              "RelativeToolTip": "Lab2_TT_4\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab2\\Lab2_TT_5\\Lab2_TT_5\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2_TT_5\\Program.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab2\\Lab2_TT_5\\Lab2_TT_5\\Program.cs",
+              "RelativeToolTip": "Lab2_TT_5\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwDcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T11:06:23.33Z",
+              "WhenOpened": "2026-07-09T16:18:30.993Z",
               "EditorCaption": ""
             }
           ]
