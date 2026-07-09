@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab2\\Lab2_TT_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3527837C-6C28-4532-A9F7-BC96215BD56B}|Lab2_TT_3\\Lab2_TT_3.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab2\\lab2_tt_3\\lab2_tt_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3527837C-6C28-4532-A9F7-BC96215BD56B}|Lab2_TT_3\\Lab2_TT_3.csproj|solutionrelative:lab2_tt_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:358036584:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab2\\Lab2_TT_3\\Lab2_TT_3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2_TT_3\\Program.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab2\\Lab2_TT_3\\Lab2_TT_3\\Program.cs",
+              "RelativeToolTip": "Lab2_TT_3\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:58:05.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
