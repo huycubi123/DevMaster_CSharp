@@ -1,7 +1,0 @@
-D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab03\Lab03\bin\Debug\Lab03.exe.config
-D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab03\Lab03\bin\Debug\Lab03.exe
-D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab03\Lab03\bin\Debug\Lab03.pdb
-D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab03\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
-D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
-D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab03\Lab03\obj\Debug\Lab03.exe
-D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab03\Lab03\obj\Debug\Lab03.pdb
