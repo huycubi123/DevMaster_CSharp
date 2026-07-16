@@ -1,0 +1,7 @@
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab3\Lab03_HD_01\Lab03_HD_01\bin\Debug\Lab03_HD_01.exe.config
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab3\Lab03_HD_01\Lab03_HD_01\bin\Debug\Lab03_HD_01.exe
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab3\Lab03_HD_01\Lab03_HD_01\bin\Debug\Lab03_HD_01.pdb
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab3\Lab03_HD_01\Lab03_HD_01\obj\Debug\Lab03_HD_01.csproj.AssemblyReference.cache
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab3\Lab03_HD_01\Lab03_HD_01\obj\Debug\Lab03_HD_01.csproj.CoreCompileInputs.cache
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab3\Lab03_HD_01\Lab03_HD_01\obj\Debug\Lab03_HD_01.exe
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab3\Lab03_HD_01\Lab03_HD_01\obj\Debug\Lab03_HD_01.pdb
