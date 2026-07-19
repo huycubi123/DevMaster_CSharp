@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{896F3623-9C9B-4371-BE15-C43147FD5C05}|Lab04_1\\Lab04_1.csproj|D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_1\\lab04_1\\checkaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896F3623-9C9B-4371-BE15-C43147FD5C05}|Lab04_1\\Lab04_1.csproj|solutionrelative:lab04_1\\checkaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896F3623-9C9B-4371-BE15-C43147FD5C05}|Lab04_1\\Lab04_1.csproj|D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_1\\lab04_1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896F3623-9C9B-4371-BE15-C43147FD5C05}|Lab04_1\\Lab04_1.csproj|solutionrelative:lab04_1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896F3623-9C9B-4371-BE15-C43147FD5C05}|Lab04_1\\Lab04_1.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab4\\lab04_1\\lab04_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896F3623-9C9B-4371-BE15-C43147FD5C05}|Lab04_1\\Lab04_1.csproj|solutionrelative:lab04_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:358036584:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckAccount.cs",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_1\\Lab04_1\\CheckAccount.cs",
+              "RelativeDocumentMoniker": "Lab04_1\\CheckAccount.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_1\\Lab04_1\\CheckAccount.cs",
+              "RelativeToolTip": "Lab04_1\\CheckAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T14:00:30.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_1\\Lab04_1\\Account.cs",
+              "RelativeDocumentMoniker": "Lab04_1\\Account.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_1\\Lab04_1\\Account.cs",
+              "RelativeToolTip": "Lab04_1\\Account.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T13:23:03.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_1\\Lab04_1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab04_1\\Program.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_1\\Lab04_1\\Program.cs",
+              "RelativeToolTip": "Lab04_1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T13:22:37.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
