@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8797604-9797-41A9-AB24-F57C93B42ECE}|Lab04_04\\Lab04_04.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab4\\lab04_04\\lab04_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8797604-9797-41A9-AB24-F57C93B42ECE}|Lab04_04\\Lab04_04.csproj|solutionrelative:lab04_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8797604-9797-41A9-AB24-F57C93B42ECE}|Lab04_04\\Lab04_04.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab4\\lab04_04\\lab04_04\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8797604-9797-41A9-AB24-F57C93B42ECE}|Lab04_04\\Lab04_04.csproj|solutionrelative:lab04_04\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8797604-9797-41A9-AB24-F57C93B42ECE}|Lab04_04\\Lab04_04.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab4\\lab04_04\\lab04_04\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8797604-9797-41A9-AB24-F57C93B42ECE}|Lab04_04\\Lab04_04.csproj|solutionrelative:lab04_04\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8797604-9797-41A9-AB24-F57C93B42ECE}|Lab04_04\\Lab04_04.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab4\\lab04_04\\lab04_04\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8797604-9797-41A9-AB24-F57C93B42ECE}|Lab04_04\\Lab04_04.csproj|solutionrelative:lab04_04\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8797604-9797-41A9-AB24-F57C93B42ECE}|Lab04_04\\Lab04_04.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab4\\lab04_04\\lab04_04\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8797604-9797-41A9-AB24-F57C93B42ECE}|Lab04_04\\Lab04_04.csproj|solutionrelative:lab04_04\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8797604-9797-41A9-AB24-F57C93B42ECE}|Lab04_04\\Lab04_04.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab4\\lab04_04\\lab04_04\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8797604-9797-41A9-AB24-F57C93B42ECE}|Lab04_04\\Lab04_04.csproj|solutionrelative:lab04_04\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:358036584:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_04\\Lab04_04\\Staff.cs",
+              "RelativeDocumentMoniker": "Lab04_04\\Staff.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_04\\Lab04_04\\Staff.cs",
+              "RelativeToolTip": "Lab04_04\\Staff.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T04:45:18.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_04\\Lab04_04\\Faculty.cs",
+              "RelativeDocumentMoniker": "Lab04_04\\Faculty.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_04\\Lab04_04\\Faculty.cs",
+              "RelativeToolTip": "Lab04_04\\Faculty.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAhwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T04:44:16.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_04\\Lab04_04\\Employee.cs",
+              "RelativeDocumentMoniker": "Lab04_04\\Employee.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_04\\Lab04_04\\Employee.cs",
+              "RelativeToolTip": "Lab04_04\\Employee.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAawB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T04:33:13.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_04\\Lab04_04\\Student.cs",
+              "RelativeDocumentMoniker": "Lab04_04\\Student.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_04\\Lab04_04\\Student.cs",
+              "RelativeToolTip": "Lab04_04\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T04:33:01.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_04\\Lab04_04\\Person.cs",
+              "RelativeDocumentMoniker": "Lab04_04\\Person.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_04\\Lab04_04\\Person.cs",
+              "RelativeToolTip": "Lab04_04\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T04:26:08.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_04\\Lab04_04\\Program.cs",
+              "RelativeDocumentMoniker": "Lab04_04\\Program.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_04\\Lab04_04\\Program.cs",
+              "RelativeToolTip": "Lab04_04\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T04:24:33.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

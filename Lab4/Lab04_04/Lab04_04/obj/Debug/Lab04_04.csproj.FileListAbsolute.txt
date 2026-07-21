@@ -1,0 +1,7 @@
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab4\Lab04_04\Lab04_04\bin\Debug\Lab04_04.exe.config
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab4\Lab04_04\Lab04_04\bin\Debug\Lab04_04.exe
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab4\Lab04_04\Lab04_04\bin\Debug\Lab04_04.pdb
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab4\Lab04_04\Lab04_04\obj\Debug\Lab04_04.csproj.AssemblyReference.cache
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab4\Lab04_04\Lab04_04\obj\Debug\Lab04_04.csproj.CoreCompileInputs.cache
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab4\Lab04_04\Lab04_04\obj\Debug\Lab04_04.exe
+D:\Devmaster\Dev_CSharp\Dev_Lab_C#\Lab4\Lab04_04\Lab04_04\obj\Debug\Lab04_04.pdb

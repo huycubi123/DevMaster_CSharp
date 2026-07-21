@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C55251-4A3C-4317-9F18-3B64E8CB8F30}|Lab04_03\\Lab04_03.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab4\\lab04_03\\lab04_03\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C55251-4A3C-4317-9F18-3B64E8CB8F30}|Lab04_03\\Lab04_03.csproj|solutionrelative:lab04_03\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C55251-4A3C-4317-9F18-3B64E8CB8F30}|Lab04_03\\Lab04_03.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab4\\lab04_03\\lab04_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C55251-4A3C-4317-9F18-3B64E8CB8F30}|Lab04_03\\Lab04_03.csproj|solutionrelative:lab04_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C55251-4A3C-4317-9F18-3B64E8CB8F30}|Lab04_03\\Lab04_03.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab4\\lab04_03\\lab04_03\\iencryptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C55251-4A3C-4317-9F18-3B64E8CB8F30}|Lab04_03\\Lab04_03.csproj|solutionrelative:lab04_03\\iencryptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C55251-4A3C-4317-9F18-3B64E8CB8F30}|Lab04_03\\Lab04_03.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab4\\lab04_03\\lab04_03\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C55251-4A3C-4317-9F18-3B64E8CB8F30}|Lab04_03\\Lab04_03.csproj|solutionrelative:lab04_03\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:358036584:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_03\\Lab04_03\\Document.cs",
+              "RelativeDocumentMoniker": "Lab04_03\\Document.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_03\\Lab04_03\\Document.cs",
+              "RelativeToolTip": "Lab04_03\\Document.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T03:52:44.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEncryptable.cs",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_03\\Lab04_03\\IEncryptable.cs",
+              "RelativeDocumentMoniker": "Lab04_03\\IEncryptable.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_03\\Lab04_03\\IEncryptable.cs",
+              "RelativeToolTip": "Lab04_03\\IEncryptable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T03:51:49.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStorage.cs",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_03\\Lab04_03\\IStorage.cs",
+              "RelativeDocumentMoniker": "Lab04_03\\IStorage.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_03\\Lab04_03\\IStorage.cs",
+              "RelativeToolTip": "Lab04_03\\IStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T03:43:32.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_03\\Lab04_03\\Program.cs",
+              "RelativeDocumentMoniker": "Lab04_03\\Program.cs",
+              "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab4\\Lab04_03\\Lab04_03\\Program.cs",
+              "RelativeToolTip": "Lab04_03\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T03:32:08.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
