@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab5\\Lab05_Guide_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A276722A-C6A3-4EAC-8DCD-9D5FAB706177}|Lab05_Guide_4\\Lab05_Guide_4.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab5\\lab05_guide_4\\lab05_guide_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A276722A-C6A3-4EAC-8DCD-9D5FAB706177}|Lab05_Guide_4\\Lab05_Guide_4.csproj|solutionrelative:lab05_guide_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A276722A-C6A3-4EAC-8DCD-9D5FAB706177}|Lab05_Guide_4\\Lab05_Guide_4.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab5\\lab05_guide_4\\lab05_guide_4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A276722A-C6A3-4EAC-8DCD-9D5FAB706177}|Lab05_Guide_4\\Lab05_Guide_4.csproj|D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab5\\Lab05_Guide_4\\lab05_guide_4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A276722A-C6A3-4EAC-8DCD-9D5FAB706177}|Lab05_Guide_4\\Lab05_Guide_4.csproj|solutionrelative:lab05_guide_4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A276722A-C6A3-4EAC-8DCD-9D5FAB706177}|Lab05_Guide_4\\Lab05_Guide_4.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab5\\lab05_guide_4\\lab05_guide_4\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A276722A-C6A3-4EAC-8DCD-9D5FAB706177}|Lab05_Guide_4\\Lab05_Guide_4.csproj|D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab5\\Lab05_Guide_4\\lab05_guide_4\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A276722A-C6A3-4EAC-8DCD-9D5FAB706177}|Lab05_Guide_4\\Lab05_Guide_4.csproj|solutionrelative:lab05_guide_4\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A276722A-C6A3-4EAC-8DCD-9D5FAB706177}|Lab05_Guide_4\\Lab05_Guide_4.csproj|d:\\devmaster\\dev_csharp\\dev_lab_c#\\lab5\\lab05_guide_4\\lab05_guide_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A276722A-C6A3-4EAC-8DCD-9D5FAB706177}|Lab05_Guide_4\\Lab05_Guide_4.csproj|solutionrelative:lab05_guide_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,39 +42,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab5\\Lab05_Guide_4\\Lab05_Guide_4\\Book.cs",
               "RelativeDocumentMoniker": "Lab05_Guide_4\\Book.cs",
               "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab5\\Lab05_Guide_4\\Lab05_Guide_4\\Book.cs",
               "RelativeToolTip": "Lab05_Guide_4\\Book.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwDcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-22T08:05:39.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Chapter.cs",
               "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab5\\Lab05_Guide_4\\Lab05_Guide_4\\Chapter.cs",
               "RelativeDocumentMoniker": "Lab05_Guide_4\\Chapter.cs",
               "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab5\\Lab05_Guide_4\\Lab05_Guide_4\\Chapter.cs",
               "RelativeToolTip": "Lab05_Guide_4\\Chapter.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-22T08:00:44.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab5\\Lab05_Guide_4\\Lab05_Guide_4\\Program.cs",
               "RelativeDocumentMoniker": "Lab05_Guide_4\\Program.cs",
               "ToolTip": "D:\\Devmaster\\Dev_CSharp\\Dev_Lab_C#\\Lab5\\Lab05_Guide_4\\Lab05_Guide_4\\Program.cs",
               "RelativeToolTip": "Lab05_Guide_4\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-22T07:59:38.672Z",
               "EditorCaption": ""

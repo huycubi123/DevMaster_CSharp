@@ -20,7 +20,7 @@ namespace Lab03_3
         }
         public void HienThi()
         {
-            Console.WriteLine($"Id: {Id} \t  Name: {Name} \t Description: {Age}");
+            Console.WriteLine($"Id: {Id} \t  Name: {Name} \t Description: {Age}"); // $ dùng để nối chuỗi 
         }
 
     }

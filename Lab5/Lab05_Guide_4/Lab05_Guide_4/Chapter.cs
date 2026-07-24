@@ -25,7 +25,7 @@ namespace Lab05_Guide_4
             get { return name; }
             set { name = value; }
         }
-        public override string ToString()
+        public override string ToString()    // Khi in đối tượng ra màn hình bằng CW sẽ tự động gọi hàm này 
         {
             return name + "\n" + content;
         }
